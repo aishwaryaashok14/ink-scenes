@@ -1,0 +1,8 @@
+# Generated images
+output/
+
+# Local style-reference images (third-party; not for republishing)
+assets/examples/*.jpg
+assets/examples/*.png
+
+.DS_Store

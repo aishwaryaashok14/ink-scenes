@@ -1,0 +1,6 @@
+interface:
+  display_name: "Ink Scenes"
+  short_description: "Turn a technical concept into one wordless ink-on-cream scene illustration."
+  default_prompt: "Use $ink-scenes to draw a wordless concept illustration for this idea:"
+policy:
+  allow_implicit_invocation: true
