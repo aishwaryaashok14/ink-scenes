@@ -1,28 +1,30 @@
 ---
 name: ink-scenes
-description: Turn a technical concept into one wordless, editorial scene illustration — warm cream background, fine ink linework with crosshatch detail, muted palette with one red-orange accent, friendly retro robots standing in for software/AI. Use when the user wants an ink-scene illustration, a wordless visual metaphor for a technical term or idea, an editorial header image for a post, or says "ink scene" / "robot illustration for X" / "draw this concept as a scene".
+description: Turn any idea — a technical concept, a feeling, a judgment, a process, a metaphor — into one wordless, editorial scene illustration — warm cream background, fine ink linework with crosshatch detail, muted palette with one red-orange accent, friendly retro robots playing software/AI when machines are in the story. Use when the user wants an ink-scene illustration, a wordless visual metaphor for a term or idea, an editorial header image for a post or essay, or says "ink scene" / "robot illustration for X" / "draw this idea as a scene".
 ---
 
 # Ink Scenes
 
 ## Core idea
 
-Turn one technical concept into one landscape, **wordless** scene illustration. The goal is the feel of a thoughtful editorial illustration in a beautifully printed book: an everyday physical scene — a dinner table, a drive-through, a desk, a street — that *is* the concept, drawn in fine ink on warm cream paper, so the reader gets it in a beat or two without a single readable word.
+Turn one idea into one landscape, **wordless** scene illustration. The goal is the feel of a thoughtful editorial illustration in a beautifully printed book: an everyday physical scene — a dinner table, a drive-through, a desk, a street — that *is* the idea, drawn in fine ink on warm cream paper, so the reader gets it in a beat or two without a single readable word.
 
-The recurring cast is **robots and small ordinary humans**. Robots play software, AI, servers, and machines — friendly, retro, matte, a little tired, never menacing. Humans play users — small, plainly dressed, often dwarfed by what they're dealing with. Many images need no characters at all: two objects side by side can carry the whole metaphor (a full holiday dinner table next to a blender of beige purée *is* compaction).
+Technical concepts are home turf, but the style speaks about anything: a feeling (burnout, waiting), a judgment (small-and-daily beats big-and-someday), a life pattern (a habit kept, a friendship maintained). If an idea can live in a kitchen, a street, or a desk drawer, it qualifies.
 
-Input is a **concept**, not an article. The skill's job is to invent the everyday metaphor, stage it as one quiet scene, and draw it well.
+The recurring cast is **robots and small ordinary humans**. When software, AI, or machinery is in the story, robots play it — friendly, retro, matte, a little tired, never menacing. Humans play the people things happen to — small, plainly dressed, often dwarfed by what they're dealing with. For ideas with no machines in them, humans and objects carry the scene alone. Many images need no characters at all: two objects side by side can carry the whole metaphor (a full holiday dinner table next to a blender of beige purée *is* compaction).
+
+Input is an **idea**, not an article. The skill's job is to invent the everyday metaphor, stage it as one quiet scene, and draw it well.
 
 ## The contract: compose first, then draw
 
-For each concept, **think briefly out loud, then generate one image**. Before calling the image model, state:
+For each idea, **think briefly out loud, then generate one image**. Before calling the image model, state:
 
-- **Metaphor** — the everyday scene that stands in for the concept.
+- **Metaphor** — the everyday scene that stands in for the idea.
 - **Cast** — robot(s), human(s), or objects only, and what each is doing.
 - **The accent** — the dominant red-orange carrier (plus any tiny echoes), and why the eye should land on it.
 - **Composition** — single scene or two-panel before/after; where the weight sits; where the quiet cream space is.
 
-Then generate **one** image. One concept → one composed image. Do not fan out into variations unless the user asks. If the user gives several concepts, make one image each.
+Then generate **one** image. One idea → one composed image. Do not fan out into variations unless the user asks. If the user gives several ideas, make one image each.
 
 ## Read these references as needed
 
@@ -37,9 +39,9 @@ Pull in only what the task needs; do not load everything at once:
 
 ## Workflow
 
-### 1. Read the concept
+### 1. Read the idea
 
-Decide what *shape* the concept has: a transformation (input becomes output), a contrast (before/after, with/without), a relationship (one thing serving another), a state (overload, idle, waiting), or a hidden mechanism (what's really going on inside). That shape picks the composition. Illustrate the single concept in front of you — do not stuff an article's worth of nuance into one scene.
+Decide what *shape* the idea has: a transformation (input becomes output), a contrast (before/after, with/without), a relationship (one thing serving another), a state (overload, idle, waiting), a hidden mechanism (what's really going on inside), or a judgment (this beats that). That shape picks the composition. Illustrate the single idea in front of you — do not stuff an article's worth of nuance into one scene.
 
 ### 2. Compose (think briefly)
 
@@ -57,7 +59,7 @@ If the user clearly asks to generate, do not stop for confirmation — use the b
 - generous negative space and minimal ground shadows
 - no infographic look, no labels or arrows, no neon or saturated color, no pure white background, no chibi cuteness, no menace
 
-Invent a fresh metaphor for every concept. Do not reuse a metaphor from a previous image unless the user explicitly asks to reuse or remix one.
+Invent a fresh metaphor for every idea. Do not reuse a metaphor from a previous image unless the user explicitly asks to reuse or remix one.
 
 ### 4. Check and iterate
 

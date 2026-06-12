@@ -10,7 +10,7 @@
 Explaining a server to your grandmother doesn't take a diagram.
 It takes her kitchen.
 
-**Ink Scenes** is an agent skill that takes a technical concept — *compaction*, *queue*, *technical debt* — and draws the everyday scene that already contains it. A full dinner table beside a blender of beige purée. A drawer that no longer closes. The drawing carries the whole idea, so the words can stay home: no labels, no arrows, no captions. If the image needs one, the image failed.
+**Ink Scenes** is an agent skill that takes an idea — *compaction*, *queue*, *technical debt*, or something no documentation ever covered: *burnout*, *patience*, *beginning again* — and draws the everyday scene that already contains it. A full dinner table beside a blender of beige purée. A drawer that no longer closes. A kitchen still running long after the diners have gone. The drawing carries the whole idea, so the words can stay home: no labels, no arrows, no captions. If the image needs one, the image failed.
 
 Made by [Aishwarya Ashok](https://x.com/aishashok14) · [LinkedIn](https://www.linkedin.com/in/aishwarya-ashok/)
 
@@ -27,15 +27,17 @@ The paper is warm cream — `#F0E8DB`, the color of a page that has waited a whi
 
 Almost everything wears quiet colors. Putty, warm gray, a sage so hushed it's nearly gray, the dusty amber of bread and old paper. And then — one red thing. Brick to tomato, `#8B3C35` to `#DF4E31`. One per image. It sits exactly where the idea pivots, and your eye goes to it the way it goes to the one lit window on a dark street.
 
-The software is played by robots — retro, matte, a little tired, taking their mundane jobs completely seriously. A robot in a chef's hat is not a joke about robots; it's a portrait of a process. The users are played by small, plainly drawn people, often standing in front of something much larger than themselves. That asymmetry is most of what needs saying.
+When software is in the story, robots play it — retro, matte, a little tired, taking their mundane jobs completely seriously. A robot in a chef's hat is not a joke about robots; it's a portrait of a process. People are drawn small and plain, often standing in front of something much larger than themselves. That asymmetry is most of what needs saying. And when the idea has no machines in it at all, the objects act alone: a table, a drawer, a clothesline can carry a feeling further than a face can.
 
 And everywhere: room. Big quiet fields of untouched cream. The scene takes only the space it needs, the way a good explanation does.
+
+None of it is decoration. The style is a way of paying attention — find the household truth inside an abstraction, then draw only that, and stop.
 
 ## How it thinks
 
 The skill composes before it draws, out loud, where you can stop it:
 
-1. **The metaphor** — which everyday scene already *is* this concept
+1. **The metaphor** — which everyday scene already *is* this idea
 2. **The cast** — robots, humans, or just objects on a table
 3. **The red thing** — what the eye should land on, and why
 4. **The room** — where the weight sits, where the quiet survives
@@ -52,6 +54,14 @@ Use $ink-scenes to draw a wordless concept illustration for:
 prompt caching
 
 Everyday scene metaphor, cream background, one red-orange accent, no words.
+```
+
+Draw something no textbook ever defined:
+
+```text
+Use $ink-scenes to draw:
+
+burnout — still cooking long after the diners have gone
 ```
 
 Draw a few — each gets its own scene, never a collage:
@@ -111,7 +121,7 @@ Prefer your clone to stay the single source of truth? Symlink instead:
 ln -s "$(pwd)/ink-scenes" ~/.claude/skills/ink-scenes
 ```
 
-Then ask for any concept, wordlessly drawn. Images land in `output/<concept>/`, or your project's `assets/` folder when you're working inside one.
+Then ask for any idea, wordlessly drawn. Images land in `output/<concept>/`, or your project's `assets/` folder when you're working inside one.
 
 ## Gallery
 
