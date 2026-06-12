@@ -44,6 +44,10 @@ How: one invented analog contraption (funnel, press, slider, conveyor) with a vi
 
 Invent a new metaphor from the current concept every time. Do not copy a metaphor from a previous image.
 
+### Canon vs. fresh
+
+The worked examples in this guide — dinner-table→blender for compaction, the ticket rail for a queue, the walk-in fridge for a cache — are **canon**: when illustrating those very concepts, use them; do not invent around them. The fresh-metaphor rule applies to concepts this guide has no worked example for, and to avoiding *self*-repetition across your own one-off images.
+
 ### Three steps
 
 1. Name the concept's physical truth: what *actually happens*, stripped of jargon — "many things become one mushy thing", "you ask through a hatch and get a bag back", "a big helper points the way", "the same dish is kept warm to avoid re-cooking".

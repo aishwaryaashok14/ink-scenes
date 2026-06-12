@@ -10,7 +10,7 @@ Like a comics artist with a dip pen explaining a server to their grandmother by 
 
 - Landscape concept illustration: default 16:9, allow 2:1 for wide quiet scenes or two-panel contrasts.
 - **Warm cream / off-white background** (think unbleached paper, roughly `#EFEAE0`): flat, uniform, no paper texture, no gradient, no vignette, no noise.
-- **Fine ink linework** in dark sepia-black: confident, clean, even-weight contour lines — closer to ligne claire than to a wobbly sketch. Detail and shadow come from **selective crosshatching and stippling**, not from gray fills or soft shading.
+- **Fine ink linework** in dark sepia-black — near-black with a warm brown cast, visibly ink rather than pure `#000`: confident, clean, even-weight contour lines — closer to ligne claire than to a wobbly sketch. Detail and shadow come from **selective crosshatching and stippling**, not from gray fills or soft shading.
 - **Muted palette**: warm grays, putty, cream for most surfaces; plus **one red-orange accent hue** (brick red to tomato) with a single dominant carrier — the car, the robot's helmet, the blender base, the hoodie. Quiet earth tones (sage green, tan, dusty amber, maroon) may fill food, books, and surfaces, all clearly hushed below the accent.
 - **Wordless**: no titles, no labels, no captions, no arrows-with-text. Documents, screens, spines, and signs inside the scene show only **asemic scribble** — marks that read as "text" from a distance but spell nothing. Tiny incidental **numerals** are allowed when counting is the point (numbered queue tickets, a dial); words never.
 - Generous negative space: large areas of untouched cream; the subject occupies roughly 50-60% of the canvas.
