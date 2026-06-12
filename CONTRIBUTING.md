@@ -19,7 +19,7 @@ Keep the visual language consistent:
 - fine ink linework; shading by crosshatch and stipple only
 - one red-orange accent hue with a single dominant carrier
 - quiet earth tones only, always hushed below the accent
-- completely wordless — scribble instead of text, numerals only when counting is the point
+- completely wordless — scribble instead of text
 - robots are retro, matte, and deadpan — never kawaii, never menacing
 
 Avoid adding infographic language, labels and arrows, extra color systems, or diagram-style layouts.

@@ -20,14 +20,14 @@ Use $ink-scenes to draw a wordless concept illustration for:
 
 - **Warm cream paper** — never pure white, never textured
 - **Fine sepia-black ink** — clean contour lines, with crosshatching and stippling doing all the shading
-- **One red-orange flare** — a single dominant accent carrier per image; when there's a crowd, the red one is the protagonist
+- **One red-orange flare** — a single dominant accent carrier per image, sitting on the element the metaphor pivots on
 - **Quiet earth tones** — sage, tan, dusty amber, all hushed below the accent
 - **Retro robots as the cast** — software and AI played by matte, deadpan workshop droids; users played by small ordinary humans
 - **Completely wordless** — papers and screens show only illegible scribble; if the metaphor needs a caption, it failed
 
 ## Why wordless?
 
-Most "concept illustrations" are diagrams wearing a costume — boxes, arrows, labels. This skill bans all of it. A queue is a line of small robots holding numbered tickets at a drive-through window. A job is one order ticket pulled off the rail. A cache is the chef's walk-in fridge. When the metaphor is right, the word becomes unnecessary — and that's the test the skill holds itself to.
+Most "concept illustrations" are diagrams wearing a costume — boxes, arrows, labels. This skill bans all of it. Compaction is a laden dinner table next to a blender of beige purée. Technical debt is a kitchen drawer that no longer closes. A context window is how much fits on one tray. When the metaphor is right, the word becomes unnecessary — and that's the test the skill holds itself to.
 
 ## Gallery
 
@@ -76,9 +76,9 @@ Use $ink-scenes to draw a wordless concept illustration for:
 
 - **Wordless by contract.** No labels, no titles, no annotated arrows — the metaphor has to carry everything.
 - **Compose first, draw second.** The skill states the metaphor, cast, accent placement, and layout before generating, so you can kill a weak take before it costs an image.
-- **One accent, one protagonist.** A single red-orange hue with one dominant carrier per image; in a crowd of gray robots, the red one is the process you're following.
-- **Series-aware.** Related concepts can share one coherent world — the ticket rail is the queue, one ticket is a job, the walk-in fridge is the cache — so a reader who got one image gets the next faster.
-- **Self-checking.** Every image is run against a QA checklist (background drift, stray text, accent dilution, kawaii drift) and regenerated or locally edited on failure.
+- **One accent.** A single red-orange hue with one dominant carrier per image — the eye lands exactly where the metaphor pivots.
+- **Measured palette.** Cream, putty, ink, accent, and earth tones are pinned to sampled hex values, so the look survives across generations.
+- **Self-checking.** Every image is run against a QA checklist (background drift, stray text, accent dilution, cuteness drift) and regenerated or locally edited on failure.
 
 ## How to use
 
@@ -92,13 +92,12 @@ prompt caching
 Everyday scene metaphor, cream background, one red-orange accent, no words.
 ```
 
-### Draw a series in one world
+### Draw several concepts
 
 ```text
-Use $ink-scenes to draw one image each for: queue, job, cache.
+Use $ink-scenes to draw one image each for: queue, webhook, cache.
 
-Keep all three in the same restaurant world so the metaphors compound.
-One composed image per concept, not a collage.
+One composed image per concept with its own fresh metaphor, not a collage.
 ```
 
 ### Swap the signature color
@@ -162,10 +161,10 @@ The installable agent skill is the `ink-scenes/` subdirectory. The root README, 
 
 ## Notes
 
-- The wordless rule is strict on *words*; tiny numerals are allowed when counting is the point (numbered queue tickets, a dial).
+- The wordless rule is strict: no readable text at all — papers and screens carry only illegible scribble.
 - Image models drift: white backgrounds, stray labels, and over-cute robots are the common failure modes — the QA checklist catches all three.
 - If a scene only makes sense with a caption, don't fix the rendering — recompose the metaphor.
-- One image = one concept. A series shares a world, never a canvas.
+- One image = one concept. Several concepts mean several images, never a collage.
 
 ## License
 

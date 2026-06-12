@@ -44,10 +44,6 @@ How: one invented analog contraption (funnel, press, slider, conveyor) with a vi
 
 Invent a new metaphor from the current concept every time. Do not copy a metaphor from a previous image.
 
-### Canon vs. fresh
-
-The worked examples in this guide — dinner-table→blender for compaction, the ticket rail for a queue, the walk-in fridge for a cache — are **canon**: when illustrating those very concepts, use them; do not invent around them. The fresh-metaphor rule applies to concepts this guide has no worked example for, and to avoiding *self*-repetition across your own one-off images.
-
 ### Three steps
 
 1. Name the concept's physical truth: what *actually happens*, stripped of jargon — "many things become one mushy thing", "you ask through a hatch and get a bag back", "a big helper points the way", "the same dish is kept warm to avoid re-cooking".
@@ -60,10 +56,8 @@ Kitchen and dinner table, drive-through and kiosk windows, libraries and ornate 
 
 Use one scene per image; never collage two scenes.
 
-## Anti-cliché rules — and the shared-world exception
+## Anti-cliché rules
 
-For one-off images, every concept deserves its own scene. Even similar concepts get different rooms of the house — if caching was a kept-warm dish, memoization should not be; maybe it is a rubber stamp that saves re-writing the same letter.
-
-**The exception is a series.** When illustrating a *family* of related concepts, deliberately keep them in one coherent world so the metaphors compound: in a restaurant world, the ticket rail is the queue, one order ticket is a job, the chalkboard tally is state, and the walk-in fridge is the cache. A reader who got one image gets the next faster. Within the shared world, each scene still stages a fresh moment — same kitchen, never the same shot twice.
+Every concept deserves its own scene. Even similar concepts get different rooms of the house — if caching was a kept-warm dish, memoization should not be; maybe it is a rubber stamp that saves re-writing the same letter.
 
 The point of the style is consistency of *voice and discipline* — cream, ink, one accent, wordless — not repetition of scenes. Robots and dinner tables are the cast and the stage, never the punchline itself.

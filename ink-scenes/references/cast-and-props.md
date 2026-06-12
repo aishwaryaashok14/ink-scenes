@@ -2,11 +2,10 @@
 
 ## The robots
 
-Robots play software, AI, servers, processes, machines — anything computational. They are the series' soul, so get them right:
+Robots play software, AI, servers, processes, machines — anything computational. They are the style's soul, so get them right:
 
-- **Retro-friendly, not sleek**: boxy or rounded panels, visible joints, segmented limbs, a few cables or vents. Closer to a 1960s appliance or a friendly workshop droid than to a glossy android. Small worker robots can be rounder and simpler — domed heads, stubby limbs — as long as the face stays minimal and deadpan.
-- **Matte and muted**: warm gray / putty bodies. **The red robot is the protagonist**: when the story follows one process among many, give that one robot the accent (red helmet, red torso) and keep its peers gray — the accent answers "which one are we talking about?"
-- **Crowds read as systems**: a line of identical small robots holding numbered tickets is a queue; many gray workers plus one red one is "your job among the jobs". Repetition with one accented exception is a core storytelling device.
+- **Retro-friendly, not sleek**: boxy or rounded panels, visible joints, segmented limbs, a few cables or vents. Closer to a 1960s appliance or a friendly workshop droid than to a glossy android.
+- **Matte and muted**: warm gray / putty bodies; one robot per scene may wear the accent color (helmet, torso, single panel) when the robot is the story's pivot.
 - **Expressive through posture, not face**: faces are minimal — two dot eyes, a simple mouth line or a small screen. Feeling comes from body language: hunched over a keyboard, proudly holding out a paper bag, pointing patiently into the distance.
 - **Gravely employed**: robots take mundane jobs completely seriously — chef, clerk, librarian, scribe. The deadpan comes from a machine doing a human chore with total commitment.
 - **Scale tells the story**: a giant robot towering over a person reads as a powerful model; a small robot on a stool reading instructions reads as a process following its config. Use scale deliberately.
@@ -14,8 +13,8 @@ Robots play software, AI, servers, processes, machines — anything computationa
 
 ### Robot don'ts
 
-- No kawaii faces: no blush marks, no giant anime eyes, no open-mouth squeals. Small and rounded is fine; sticker-cute is not.
-- Not menacing: no glowing eyes, no weapons, no looming threat.
+- Not chibi, not kawaii, no blush marks, no giant anime eyes.
+- Not menacing: no red glowing eyes, no weapons, no looming threat.
 - Not branded: no resemblance to specific famous robots.
 
 ## The humans

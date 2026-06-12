@@ -45,25 +45,24 @@ a context window — how much the model can hold in mind at once
 One large patient figure or structure, one small human, lots of cream sky.
 ```
 
-## A protagonist among peers
+## A relationship (one thing serving another)
 
 ```text
 Use $ink-scenes to draw:
 
-a worker — one process picking up tasks among many
+a webhook — being notified instead of having to keep checking
 
-A crowd of identical gray robots and exactly one red one. The red one
-is the worker we're following.
+Two parties and an exchange through a physical interface — a hatch,
+a counter, a mail slot. Wordless, one dominant accent carrier.
 ```
 
-## A series in one world
+## Several concepts at once
 
 ```text
-Use $ink-scenes to draw one image each for: queue, job, state, cache.
+Use $ink-scenes to draw one image each for: queue, job, cache.
 
-Keep all four in the same restaurant world — ticket rail, order ticket,
-chalkboard tally, walk-in fridge — so the metaphors compound.
-One composed image per concept, not a collage.
+One composed image per concept, each with its own fresh everyday
+metaphor — not a collage, not a shared diagram.
 ```
 
 ## Swap the signature color

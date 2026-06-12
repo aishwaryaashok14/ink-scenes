@@ -6,6 +6,6 @@ All notable changes to Ink Scenes will be tracked here.
 
 - Added the initial Ink Scenes agent skill: wordless ink-on-cream scene illustrations for technical concepts.
 - Added the style DNA: cream ground, ink-and-crosshatch rendering, one red-orange accent with a dominant carrier, quiet earth tones, retro robot cast.
-- Added series support: related concepts can share one coherent metaphor world.
+- Added a measured color palette sampled to exact hex values.
 - Added Claude Code and OpenAI Codex install instructions.
 - Added prompt examples.

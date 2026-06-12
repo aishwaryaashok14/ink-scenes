@@ -15,16 +15,16 @@ Cast:
 {e.g. "One retro robot — boxy matte warm-gray panels, segmented limbs, minimal dot-eye face — gravely doing X" / "One small plainly-dressed human looking up at Y" / "No characters; objects only"}
 
 The red-orange accent:
-{the one dominant carrier painted brick-red-to-tomato — the car, the protagonist robot's helmet and torso, the blender base, the hoodie — plus at most a couple of tiny echoes of the same hue, e.g. "a thin pinstripe on the tablecloth" / "a small knob" / "none"}
+{the one dominant carrier painted brick-red-to-tomato — the car, the helmet, the blender base, the hoodie — plus at most a couple of tiny echoes of the same hue, e.g. "a thin pinstripe on the tablecloth" / "a small knob" / "none"}
 
 Quiet earth tones:
-{the hushed low-saturation tones the scene needs, e.g. "sage green bin, tan bread, dusty-amber turkey" — or "none, grayscale plus accent only"; every earth tone clearly quieter than the accent}
+{the hushed low-saturation tones the scene needs, e.g. "sage green pot, tan bread, dusty-amber turkey" — or "none, grayscale plus accent only"; every earth tone clearly quieter than the accent}
 
 Strictly wordless:
-No readable words, labels, titles, captions, arrows, or logos anywhere. Any paper, book, sign, or screen in the scene shows only tiny illegible scribble marks. {If counting is the point: "Tiny plain numerals are allowed on {the tickets/the dial} only." — otherwise: "No numbers either."}
+No readable text, letters, numbers, labels, titles, captions, arrows, or logos anywhere. Any paper, book, sign, or screen in the scene shows only tiny illegible scribble marks.
 
 Constraints:
-One scene expresses one concept. Main subject occupies roughly 50-60% of the canvas; keep at least one large quiet zone of untouched cream. No infographic, flowchart, or diagram look. No pure white background. No neon or saturated colors, no second loud color. No kawaii faces (no blush marks or giant anime eyes — small rounded deadpan robots are fine), no menacing robots, no photorealism, no UI screenshots. The image should read like a wry editorial illustration from a beautifully printed book.
+One scene expresses one concept. Main subject occupies roughly 50-60% of the canvas; keep at least one large quiet zone of untouched cream. No infographic, flowchart, or diagram look. No pure white background. No neon or saturated colors, no second loud color. No chibi or kawaii cuteness, no menacing robots, no photorealism, no UI screenshots. The image should read like a wry editorial illustration from a beautifully printed book.
 ```
 
 ## Image edit prompts
