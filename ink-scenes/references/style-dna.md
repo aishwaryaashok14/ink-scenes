@@ -9,7 +9,7 @@ Like a comics artist with a dip pen explaining a server to their grandmother by 
 ## Must have
 
 - Landscape concept illustration: default 16:9, allow 2:1 for wide quiet scenes or two-panel contrasts.
-- **Warm cream / off-white background** (think unbleached paper, roughly `#EFEAE0`): flat, uniform, no paper texture, no gradient, no vignette, no noise.
+- **Warm cream / off-white background** (think unbleached paper, `#F0E8DB`): flat, uniform, no paper texture, no gradient, no vignette, no noise.
 - **Fine ink linework** in dark sepia-black — near-black with a warm brown cast, visibly ink rather than pure `#000`: confident, clean, even-weight contour lines — closer to ligne claire than to a wobbly sketch. Detail and shadow come from **selective crosshatching and stippling**, not from gray fills or soft shading.
 - **Muted palette**: warm grays, putty, cream for most surfaces; plus **one red-orange accent hue** (brick red to tomato) with a single dominant carrier — the car, the robot's helmet, the blender base, the hoodie. Quiet earth tones (sage green, tan, dusty amber, maroon) may fill food, books, and surfaces, all clearly hushed below the accent.
 - **Wordless**: no titles, no labels, no captions, no arrows-with-text. Documents, screens, spines, and signs inside the scene show only **asemic scribble** — marks that read as "text" from a distance but spell nothing. Tiny incidental **numerals** are allowed when counting is the point (numbered queue tickets, a dial); words never.
@@ -18,6 +18,26 @@ Like a comics artist with a dip pen explaining a server to their grandmother by 
 - One image expresses one concept through one scene metaphor.
 
 ## Color
+
+### Measured palette
+
+Sampled from reference images — use these as anchors, not absolutes:
+
+| Role | Hex | Notes |
+| --- | --- | --- |
+| Cream ground | `#F0E8DB` | ~40% of any canvas; flat, uniform |
+| Light putty | `#E7DFD1` | pale surfaces, paper, robot panels |
+| Putty / warm gray | `#D4CEBF` | machines, furniture, clothing |
+| Greige | `#C1B39D` | deeper neutral surfaces, wood, shadow-side fills |
+| Ink line | `#1C120B` | near-black with a warm brown cast — never pure `#000` |
+| **Accent red** | `#8B3C35` → `#DF4E31` | brick to tomato-vermilion; center ~`#C84B33`; highlights may lift to `#F2775F` |
+| Maroon | `#773639` | berries, book spines — reads as an earth tone, not a second accent |
+| Dusty amber | `#BC8A4D` / `#936945` | roast, bread, leather, old paper |
+| Sage-olive | `#858570` | greens are nearly gray — barely saturated |
+
+The earth tones sit close to the neutrals in saturation; only the accent red is allowed to be vivid.
+
+### Structure
 
 This is a **muted-world-plus-one-flare** scheme, not a duotone:
 
