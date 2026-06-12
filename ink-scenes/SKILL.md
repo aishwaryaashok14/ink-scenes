@@ -19,7 +19,7 @@ For each concept, **think briefly out loud, then generate one image**. Before ca
 
 - **Metaphor** — the everyday scene that stands in for the concept.
 - **Cast** — robot(s), human(s), or objects only, and what each is doing.
-- **The accent** — the single red-orange element and why the eye should land on it.
+- **The accent** — the dominant red-orange carrier (plus any tiny echoes), and why the eye should land on it.
 - **Composition** — single scene or two-panel before/after; where the weight sits; where the quiet cream space is.
 
 Then generate **one** image. One concept → one composed image. Do not fan out into variations unless the user asks. If the user gives several concepts, make one image each.
@@ -52,10 +52,10 @@ If the user clearly asks to generate, do not stop for confirmation — use the b
 - landscape concept illustration (default 16:9; 2:1 for wide quiet scenes)
 - flat warm cream / off-white background, no texture, no gradient
 - fine dark sepia-black ink linework, confident and clean, with selective crosshatching and stippling for form and texture
-- muted palette: warm grays and cream, plus exactly one red-orange accent element; optionally one quiet secondary muted tone (sage, tan)
-- **no readable text anywhere** — any paper, screen, or book in the scene shows only illegible scribble marks
+- muted palette: warm grays and cream, quiet earth tones (sage, tan, dusty amber) where the scene needs them, plus one red-orange accent hue with a single dominant carrier
+- **no readable words anywhere** — any paper, screen, or book in the scene shows only illegible scribble marks (tiny numerals allowed only when counting is the point)
 - generous negative space and minimal ground shadows
-- no infographic look, no labels or arrows, no neon or saturated color, no pure white background, no chibi cuteness, no menace
+- no infographic look, no labels or arrows, no neon or saturated color, no pure white background, no kawaii faces, no menace
 
 Invent a fresh metaphor for every concept. Do not reuse a metaphor from a previous image unless the user explicitly asks to reuse or remix one.
 

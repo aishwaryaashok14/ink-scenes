@@ -1,8 +1,8 @@
-# Generated images
+# Generated images (local library)
 output/
 
 # Local style-reference images (third-party; not for republishing)
-assets/examples/*.jpg
-assets/examples/*.png
+ink-scenes/assets/examples/*.jpg
+ink-scenes/assets/examples/*.png
 
 .DS_Store

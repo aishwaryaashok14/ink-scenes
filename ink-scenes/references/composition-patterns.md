@@ -56,8 +56,10 @@ Kitchen and dinner table, drive-through and kiosk windows, libraries and ornate 
 
 Use one scene per image; never collage two scenes.
 
-## Anti-cliché rules
+## Anti-cliché rules — and the shared-world exception
 
-Every concept deserves its own scene. Even similar concepts get different rooms of the house — if caching was a kept-warm dish, memoization should not be; maybe it is a rubber stamp that saves re-writing the same letter.
+For one-off images, every concept deserves its own scene. Even similar concepts get different rooms of the house — if caching was a kept-warm dish, memoization should not be; maybe it is a rubber stamp that saves re-writing the same letter.
+
+**The exception is a series.** When illustrating a *family* of related concepts, deliberately keep them in one coherent world so the metaphors compound: in a restaurant world, the ticket rail is the queue, one order ticket is a job, the chalkboard tally is state, and the walk-in fridge is the cache. A reader who got one image gets the next faster. Within the shared world, each scene still stages a fresh moment — same kitchen, never the same shot twice.
 
 The point of the style is consistency of *voice and discipline* — cream, ink, one accent, wordless — not repetition of scenes. Robots and dinner tables are the cast and the stage, never the punchline itself.

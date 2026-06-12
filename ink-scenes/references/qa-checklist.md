@@ -5,10 +5,10 @@
 - It is landscape (16:9 or 2:1 as composed).
 - The background is one flat warm cream tone — not white, not textured.
 - Linework is fine ink with crosshatch/stipple shading — not soft-shaded, not flat vector.
-- Exactly one red-orange accent element, and it sits on the pivot of the metaphor.
-- Any secondary tone is clearly quieter than the accent.
-- **Zero readable text** — every document, sign, or screen shows only illegible scribble.
-- The metaphor is an everyday physical scene, freshly invented for this concept.
+- One red-orange accent hue with one dominant carrier, sitting on the pivot of the metaphor (tiny same-hue echoes like a pinstripe or knob are fine).
+- Every earth tone (sage, tan, amber) is clearly quieter than the accent.
+- **Zero readable words** — every document, sign, or screen shows only illegible scribble; numerals only if counting is the point.
+- The metaphor is an everyday physical scene — freshly invented, or a deliberate new moment inside an established series world.
 - The scene reads in a beat or two without a caption.
 - One large quiet cream zone survives; the subject is roughly 50-60% of the canvas.
 - Robots (if present) are retro, matte, deadpan — neither cute nor menacing.
@@ -22,7 +22,7 @@ If any of these appear, regenerate or do a local edit:
 - A second saturated color competing with the accent, or a rainbow palette.
 - Infographic, flowchart, diagram, or slide energy.
 - Glossy 3D rendering, soft airbrush shading, or photorealism.
-- Chibi/kawaii robots, blush marks, giant anime eyes — or glowing-red-eye menace.
+- Kawaii faces — blush marks, giant anime eyes — or glowing-eye menace (small rounded deadpan robots are fine).
 - Edge-to-edge clutter with no quiet zone.
 - A metaphor so abstract it needs the term written on the image to land.
 - Two scenes collaged into one canvas.
